@@ -4,13 +4,8 @@
 
 ## Introduction
 
-__chapter 5 to 7 deals with Sequence ADTS__
----------------------------------
 
-__Note__ : A very important thing to note is that the main goal of studying data structure right now is to understand how it works and to understand how to choose which data structure to use. For now leave the implementation work to a module. 
-Like list, dict, set, and collections module and anytree for tree data structure, etc. 
-
-__Important keywords__ :: 
+__Some Data Structures and ADTs__ :: 
 
 - array
 - static array
@@ -332,13 +327,6 @@ variable can be keep track of the first index position. To find the tail of the 
 
 Increment of 1 doesn't effect the value until the end is reached when it starts again at the top of the index position. 
 
-# 
-
-![Circular Buffer](.\circular-buffer.gif)
-
-# 
-
-![Circular View](.\circular-view.jpg)
 
 __Circulr buffer__ are effecient for implementing an array Queue and Deque.
 
