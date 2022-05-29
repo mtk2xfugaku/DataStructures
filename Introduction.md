@@ -138,7 +138,7 @@ __Some Words about Python__
 
 Python provides a dynamic array called __list__. It can be used to implement a Stack ADT and with a little bit of modification it can used as a circular array to implement a Queue ADT and Deque ADT. 
 
-Python doesn't provide a __linked list__ but it can implemented eaily using class as the container. 
+Python doesn't provide a __linked list__ but it can implemented eaily using object reference. 
 
 A deque is not necessary to implement using array as Python provides a builtin Deque ADT in collections module with constant time insertion and deletion at both ends. 
 
