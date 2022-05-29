@@ -11,16 +11,12 @@ __Some Data Structures and ADTs__ ::
 - static array
 - dynamic array
 - circular buffer (circular array)
-- list or sequence
-- abstract data type
-- data structure
-- primitive data type
-- container 
-- iterator
+- list (aka Sequence ADT)
 - linked list (singly, doubly, circular)
 - stack 
 - queue
 - deque
+
 
 __Data Structure__ is a way of organizing a collection of _primitive data types_ in a certain order which makes access and mutation easily and effecient. Before studying algorithms in more detail a grasp on data structures is important.
 
@@ -374,4 +370,4 @@ __Disadvantages include__ :
 
 Linked data structure may also icur in sunstantial memory allocation overhead and frustrate memory paging and processor caching algorithms (since they have poor locality of reference).
 
-Another problem in linked data structure is the lack of random meory access like arrays. 
+Another problem in linked data structure is the lack of random memory access like arrays. 
