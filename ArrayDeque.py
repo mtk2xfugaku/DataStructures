@@ -1,5 +1,4 @@
 """
-TODO : Implement a deque using an Array Deque(Readmore on wikipedia.com/wiki/Double-ended_queue).
 
 Required operations and time complexitites 
 
